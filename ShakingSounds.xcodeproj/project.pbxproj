@@ -12,6 +12,12 @@
 		2A2CA7A81C7EDB9300D30114 /* Main.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 2A2CA7A61C7EDB9300D30114 /* Main.storyboard */; };
 		2A2CA7AA1C7EDB9300D30114 /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 2A2CA7A91C7EDB9300D30114 /* Assets.xcassets */; };
 		2A2CA7AD1C7EDB9300D30114 /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 2A2CA7AB1C7EDB9300D30114 /* LaunchScreen.storyboard */; };
+		2A2CA7BD1C7EDEC700D30114 /* radiotuning.mp3 in Resources */ = {isa = PBXBuildFile; fileRef = 2A2CA7BA1C7EDEC700D30114 /* radiotuning.mp3 */; };
+		2A2CA7BE1C7EDEC700D30114 /* splash.mp3 in Resources */ = {isa = PBXBuildFile; fileRef = 2A2CA7BB1C7EDEC700D30114 /* splash.mp3 */; };
+		2A2CA7BF1C7EDEC700D30114 /* steamengine.mp3 in Resources */ = {isa = PBXBuildFile; fileRef = 2A2CA7BC1C7EDEC700D30114 /* steamengine.mp3 */; };
+		2A2CA7C31C7EFDE900D30114 /* radiotuning.jpg in Resources */ = {isa = PBXBuildFile; fileRef = 2A2CA7C01C7EFDE900D30114 /* radiotuning.jpg */; };
+		2A2CA7C41C7EFDE900D30114 /* splash.jpg in Resources */ = {isa = PBXBuildFile; fileRef = 2A2CA7C11C7EFDE900D30114 /* splash.jpg */; };
+		2A2CA7C51C7EFDE900D30114 /* steamengine.jpg in Resources */ = {isa = PBXBuildFile; fileRef = 2A2CA7C21C7EFDE900D30114 /* steamengine.jpg */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -22,6 +28,12 @@
 		2A2CA7A91C7EDB9300D30114 /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
 		2A2CA7AC1C7EDB9300D30114 /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/LaunchScreen.storyboard; sourceTree = "<group>"; };
 		2A2CA7AE1C7EDB9300D30114 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
+		2A2CA7BA1C7EDEC700D30114 /* radiotuning.mp3 */ = {isa = PBXFileReference; lastKnownFileType = audio.mp3; path = radiotuning.mp3; sourceTree = "<group>"; };
+		2A2CA7BB1C7EDEC700D30114 /* splash.mp3 */ = {isa = PBXFileReference; lastKnownFileType = audio.mp3; path = splash.mp3; sourceTree = "<group>"; };
+		2A2CA7BC1C7EDEC700D30114 /* steamengine.mp3 */ = {isa = PBXFileReference; lastKnownFileType = audio.mp3; path = steamengine.mp3; sourceTree = "<group>"; };
+		2A2CA7C01C7EFDE900D30114 /* radiotuning.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = radiotuning.jpg; sourceTree = "<group>"; };
+		2A2CA7C11C7EFDE900D30114 /* splash.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = splash.jpg; sourceTree = "<group>"; };
+		2A2CA7C21C7EFDE900D30114 /* steamengine.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = steamengine.jpg; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -60,6 +72,12 @@
 				2A2CA7A91C7EDB9300D30114 /* Assets.xcassets */,
 				2A2CA7AB1C7EDB9300D30114 /* LaunchScreen.storyboard */,
 				2A2CA7AE1C7EDB9300D30114 /* Info.plist */,
+				2A2CA7BA1C7EDEC700D30114 /* radiotuning.mp3 */,
+				2A2CA7BB1C7EDEC700D30114 /* splash.mp3 */,
+				2A2CA7BC1C7EDEC700D30114 /* steamengine.mp3 */,
+				2A2CA7C01C7EFDE900D30114 /* radiotuning.jpg */,
+				2A2CA7C11C7EFDE900D30114 /* splash.jpg */,
+				2A2CA7C21C7EFDE900D30114 /* steamengine.jpg */,
 			);
 			path = ShakingSounds;
 			sourceTree = "<group>";
@@ -123,8 +141,14 @@
 			buildActionMask = 2147483647;
 			files = (
 				2A2CA7AD1C7EDB9300D30114 /* LaunchScreen.storyboard in Resources */,
+				2A2CA7BD1C7EDEC700D30114 /* radiotuning.mp3 in Resources */,
 				2A2CA7AA1C7EDB9300D30114 /* Assets.xcassets in Resources */,
+				2A2CA7C31C7EFDE900D30114 /* radiotuning.jpg in Resources */,
+				2A2CA7C41C7EFDE900D30114 /* splash.jpg in Resources */,
 				2A2CA7A81C7EDB9300D30114 /* Main.storyboard in Resources */,
+				2A2CA7BE1C7EDEC700D30114 /* splash.mp3 in Resources */,
+				2A2CA7BF1C7EDEC700D30114 /* steamengine.mp3 in Resources */,
+				2A2CA7C51C7EFDE900D30114 /* steamengine.jpg in Resources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
